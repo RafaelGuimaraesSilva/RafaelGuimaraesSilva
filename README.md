@@ -2,7 +2,7 @@
 
 ### Supervisor de Operações Técnicas & Fullstack Developer
 
-Desenvolvedor de software e líder técnico, atuando na arquitetura e desenvolvimento de sistemas escaláveis, automação de processos e integração de inteligência artificial.
+Desenvolvedor de software e Supervisor de operações técnicas, atuando na arquitetura e desenvolvimento de sistemas escaláveis, automação de processos e integração de inteligência artificial.
 
 Minha atuação combina desenvolvimento Fullstack, liderança técnica, infraestrutura Linux e construção de soluções inteligentes utilizando RAG e LLMs.
 
