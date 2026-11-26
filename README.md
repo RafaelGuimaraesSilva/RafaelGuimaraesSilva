@@ -1,6 +1,6 @@
 # Rafael Guimarães
 
-### Supervisor de Operações Técnicas & Fullstack Developer
+### Fullstack Developer | IA Aplicada
 
 Desenvolvedor de software e Supervisor de operações técnicas, atuando na arquitetura e desenvolvimento de sistemas escaláveis, automação de processos e integração de inteligência artificial.
 
